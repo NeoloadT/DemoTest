@@ -1,0 +1,17 @@
+# Project description file
+
+project.name=Sample_Project
+project.config.storage=XML_MULTI
+project.id=214d2ef8-c9e1-4ff4-83a5-a0e989eb24bd
+team.server.enabled=true
+product.original.name=
+product.name=NeoLoad
+product.original.version=
+project.config.path=team
+project.version=8.7
+project.original.version=4.2
+project.is-open-test-settings-after-upload=true
+project.workspace=636b211c2174ca5eda86b17f
+project.test-settings=5e3b7b21-4e1c-4524-a681-3c45370284b8
+product.version=9.1.0
+team.server.project=/NeoloadT/DemoTest

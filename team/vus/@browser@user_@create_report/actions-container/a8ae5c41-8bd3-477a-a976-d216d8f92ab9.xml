@@ -1,0 +1,20 @@
+<http-plugin-action actionType="1"
+    contentType="text/plain; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="http_request_" path="/" plugin="GWT"
+    postType="2" serverUid="sampledemo.neotys.com"
+    slaProfileEnabled="false" uid="a8ae5c41-8bd3-477a-a976-d216d8f92ab9" useKeepAlive="false">
+    <plugin-handler flags="0" isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true" labelBase64="Lw=="
+        moduleBase="" networkType="HTTP" plugin="GWT"
+        protocolVersion="2" resultClass="" strongId="">
+        <requestXMLDataBase64><![CDATA[]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>team/vus/@browser@user_@create_report/%resources%/recorded-responses/res_a8ae5c41-8bd3-477a-a976-d216d8f92ab9</responsePageFileDescription>
+    <header name="Content-Type" value="text/plain; charset=utf-8"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>

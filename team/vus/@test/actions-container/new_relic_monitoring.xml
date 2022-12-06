@@ -1,0 +1,26 @@
+<custom-action actionType="NewRelicMonitoringAction" isHit="false"
+    name="new_relic_monitoring" uid="fa086039-8540-418e-8a71-1df7484bc404">
+    <description>New Relic Monitoring Action will retrieve all the counters measured by NewRelic Infrastructure
+Possible parameters are:&#xd;
+- newRelicAPIKey (required): New Relic API key. List of New Relic API keys are defined on New Relic menu Account settings, section INTEGRATIONS, subsection API keys.&#xd;
+- newRelicApplicationName (required): New Relic application name. List of New Relic application names are on New Relic menu APM.&#xd;
+- sendNLWebDataToNewRelic (optional): When set to 'true', sends NeoLoad Web data to New Relic (requires NeoLoad Web module). When set to 'false', only retrieves data from New Relic. Default value is "true".&#xd;
+- newRelicLicenseKey (optional): The New Relic license key. Required when argument 'sendNLWebDataToNewRelic' is true.&#xd;
+- newRelicAccountId (optional): The New Relic Account Id. It appears in the URL when going on New Relic menu Account settings 'https://rpm.newrelic.com/accounts/&lt;accountId&gt;'. Required when argument 'sendNLWebDataToNewRelic' is true.&#xd;
+- newRelicInsightsAPIKey (optional): The New Relic Insights API key. List of New Relic Insights API keys are defined on New Relic menu Insights, section 'Manage data', subsection API Keys. Required when argument 'sendNLWebDataToNewRelic' is true.&#xd;
+- dataExchangeApiUrl (optional): Where the DataExchange server is located. Optional, by default it is: http://${NL-ControllerIp}:7400/DataExchange/v1/Service.svc/.&#xd;
+- dataExchangeApiKey (optional): Identification key specified in NeoLoad.&#xd;
+- proxyName (optional): The NeoLoad proxy name to access New Relic.&#xd;
+- newRelicRelevantMetricNames (optional): Specify the comma separated list of the matching names (contains) of the New Relic metric names to retrieve (by default: Datastore/statement,Datastore/instance,CPU/main,Memory,Error/,connects). Default value is "Datastore/statement,Datastore/instance,CPU/main,Memory,Error/,connects".&#xd;
+- newRelicRelevantMetricValues (optional): Specify the comma separated list of the matching names (contains) of the New Relic metric statistics to retrieve (by default: min,max,average,used_mb,percent). Default value is "min,max,average,used_mb,percent".</description>
+    <encrypted-custom-action-parameter name="newRelicAPIKey"
+        type="PASSWORD" value="r5IGxM64g2EY0AqjWi45sYvlKt1WAp0FWErzP9DZGXppUF9CMycUcXwJILYleFby"/>
+    <custom-action-parameter name="newRelicApplicationName" type="TEXT" value="Test "/>
+    <custom-action-parameter name="sendNLWebDataToNewRelic" type="TEXT" value="true"/>
+    <encrypted-custom-action-parameter name="newRelicLicenseKey"
+        type="PASSWORD" value="rAMyA0wmzcI7dEIrFmzuRA=="/>
+    <custom-action-parameter name="newRelicAccountId" type="TEXT" value=""/>
+    <encrypted-custom-action-parameter name="newRelicInsightsAPIKey"
+        type="PASSWORD" value="rAMyA0wmzcI7dEIrFmzuRA=="/>
+    <responsePageFileDescription>recorded-responses/res_fa086039-8540-418e-8a71-1df7484bc404</responsePageFileDescription>
+</custom-action>

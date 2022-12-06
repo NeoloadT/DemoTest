@@ -1,0 +1,8 @@
+<push-message element-number="1" execution-type="0"
+    messageType="CONDITIONS" name="Message" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    uid="bd9903e1-8fa6-4478-a410-e58d94db914d" weightsEnabled="false">
+    <conditions match-type="1">
+        <condition operand1="${NL-MessageContent}" operand2="" operator="CONTAINS"/>
+    </conditions>
+</push-message>

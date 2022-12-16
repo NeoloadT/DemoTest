@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=test_demo_git
+project.version=8.7
+project.original.version=8.7
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=9.1.0
+project.is-open-test-settings-after-upload=false
+project.id=a1484e98-0a9a-4c40-a7a4-6fccf32589d7
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/NeoloadT/DemoTest

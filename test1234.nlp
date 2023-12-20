@@ -1,0 +1,15 @@
+# Project description file
+
+project.name=test1234
+project.version=8.7
+project.original.version=8.7
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+product.original.version=9.2.0
+project.is-open-test-settings-after-upload=false
+project.id=89cf4023-bfce-48b4-ab69-eaa35c15cc3b
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/NeoloadT/DemoTest

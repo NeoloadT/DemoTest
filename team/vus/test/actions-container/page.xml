@@ -1,0 +1,190 @@
+<http-page executeResourcesDynamically="false" name="page"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e28c5201-dd6f-4bde-9b99-41b288d01346">
+    <embedded-action>98049d68-df24-4d83-9f71-1587224995d0</embedded-action>
+    <embedded-action>f1d8ea5d-a600-4b9e-9d03-2295afd93074</embedded-action>
+    <embedded-action>21695e8a-e528-441a-aad9-67957a848f54</embedded-action>
+    <embedded-action>f6d40b16-062a-4527-9d8d-1bda0a0d5d4f</embedded-action>
+    <embedded-action>f4e0a27b-c792-4c42-b725-85b4490c7d04</embedded-action>
+    <embedded-action>010faa8a-9fee-4a28-b211-9c006a5a40ba</embedded-action>
+    <embedded-action>d9aa018c-1776-4422-8331-3cb1fad0aa60</embedded-action>
+    <embedded-action>eb5447cf-c6be-4801-b7a5-86450b68d4da</embedded-action>
+    <embedded-action>55068254-82c3-4d1d-884b-2b2ee0f5013a</embedded-action>
+    <embedded-action>c9856d31-b0d7-44ae-9c47-91dc5838d4d7</embedded-action>
+    <embedded-action>7d8c8286-42d9-4345-b2cc-ee926a2be68d</embedded-action>
+    <embedded-action>5810f310-fa5f-453f-bdd2-601e3e273f40</embedded-action>
+    <embedded-action>b23947fa-c42a-418b-a802-4ed1ae9ad4b5</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="http_request_" path="/" postCharset=""
+    postType="1"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="98049d68-df24-4d83-9f71-1587224995d0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_98049d68-df24-4d83-9f71-1587224995d0</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="f1d8ea5d-a600-4b9e-9d03-2295afd93074" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1e6c70f4-6f4a-4fa3-b589-47374d567930</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[${ExtractedVariable_0}]]></textPostContent>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="21695e8a-e528-441a-aad9-67957a848f54" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_21695e8a-e528-441a-aad9-67957a848f54</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="f6d40b16-062a-4527-9d8d-1bda0a0d5d4f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f6d40b16-062a-4527-9d8d-1bda0a0d5d4f</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="f4e0a27b-c792-4c42-b725-85b4490c7d04" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f4e0a27b-c792-4c42-b725-85b4490c7d04</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="010faa8a-9fee-4a28-b211-9c006a5a40ba" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_010faa8a-9fee-4a28-b211-9c006a5a40ba</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="d9aa018c-1776-4422-8331-3cb1fad0aa60" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d9aa018c-1776-4422-8331-3cb1fad0aa60</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="eb5447cf-c6be-4801-b7a5-86450b68d4da" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_eb5447cf-c6be-4801-b7a5-86450b68d4da</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="55068254-82c3-4d1d-884b-2b2ee0f5013a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_55068254-82c3-4d1d-884b-2b2ee0f5013a</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="c9856d31-b0d7-44ae-9c47-91dc5838d4d7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c9856d31-b0d7-44ae-9c47-91dc5838d4d7</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="7d8c8286-42d9-4345-b2cc-ee926a2be68d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7d8c8286-42d9-4345-b2cc-ee926a2be68d</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="5810f310-fa5f-453f-bdd2-601e3e273f40" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5810f310-fa5f-453f-bdd2-601e3e273f40</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" customMethod="true"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="4"
+    recordedArtifactZipFileName="team/vus/test/%resources%/recorded-artifacts/e28c5201-dd6f-4bde-9b99-41b288d01346.zip"
+    serverUid="host" slaProfileEnabled="false"
+    uid="b23947fa-c42a-418b-a802-4ed1ae9ad4b5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b23947fa-c42a-418b-a802-4ed1ae9ad4b5</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
